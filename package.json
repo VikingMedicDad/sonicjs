@@ -83,7 +83,7 @@
     "simple-line-icons": "^2.5.5",
     "sortablejs": "^1.13.0",
     "uglify-es": "^3.3.9",
-    "underscore": "^1.12.0",
+    "underscore": "^1.12.1",
     "yaml": "^1.10.0"
   },
   "devDependencies": {
